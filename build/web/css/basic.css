@@ -1,0 +1,62 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 31, 2020, 7:18:30 PM
+    Author     : admin
+*/
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://www.w3schools.com/w3css/4/w3.css');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+body{
+   font-family: 'Montserrat', sans-serif;
+}
+.mid_container {
+    text-align: center;
+
+}
+#link_active {
+    color:  red;
+}
+.table_dis_div {
+    width: 100%;
+    margin: auto;
+}
+.node_Container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.node_header {
+    font-family: 'Montserrat', sans-serif;
+    font-size: xx-large;
+        text-align: center;
+    margin-bottom: 20px
+}
+
+
+table {
+    margin: auto;
+    width: calc(100% - 40px);
+}
+.table_dis {
+
+    width: calc(100% - 40px);
+}
+.node-container{
+    margin: auto;
+    margin-bottom: 10px;
+}
+.my-container {
+    margin: auto;
+    margin-top: 50px;
+    width: 50%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+
+}
+.mid_Container {
+
+}
